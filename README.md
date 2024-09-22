@@ -34,7 +34,7 @@ var server = new Server()
 server.tags.set( "mytag", (fn) => "u are visiting " + fn )
 server.listen(8080)
 ```
-visit http://127.0.0.1:8080/index.html  
+visit http://127.0.0.1:8080/mytag:index.html  
 u will see `u are visiting index.html`
   
 *node Tag*  
