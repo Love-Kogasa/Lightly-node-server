@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "mimetype": "^0.0.8"
+  },
+  "name": "lightly-node-server",
+  "description": "A lightweight and easily Node.js module for creating a simple HTTP server. If you're working on a larger project, consider using Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Love-Kogasa/lightly-node-server.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "static",
+    "easily",
+    "quickly"
+  ],
+  "author": "Li Yingchao ( github:Love-Kogasa )",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Love-Kogasa/lightly-node-server/issues"
+  },
+  "homepage": "https://github.com/Love-Kogasa/lightly-node-server#readme"
+}
