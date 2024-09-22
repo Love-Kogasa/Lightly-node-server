@@ -48,4 +48,4 @@ module.exports = {
     hello : () => console.log( "hello" )
 }
 ```
-if u want use an npm-module u can also node:xxx but needn't node:node_modules/xxx/index.js
+if u want use an npm-module u can also node:xxx needn't node:node_modules/xxx/index.js
